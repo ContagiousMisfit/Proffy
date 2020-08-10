@@ -12,4 +12,7 @@ O projeto desenvolvido pela RocketSeat traz uma bagagem inédita de conhecimento
 **Tecnologias e conhecimentos empregados:**
   <br>~ Front-end com ReactJS
   <br>~ Design responsivo e Mobile First
-  <br>~ Back-end com NodeJS
+  <br>~ CSS Grid
+  <br>~ Reutilização de componentes
+  <br>~ HTML Semântico
+  <br>~ Conceito SPA 
